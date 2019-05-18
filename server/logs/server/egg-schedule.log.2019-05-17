@@ -1,0 +1,22 @@
+2019-05-16 08:24:12,534 INFO 3892 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-16 08:24:12,534 INFO 3892 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-16 08:24:13,409 INFO 3548 [Timer] C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 56146595ms at 2019-05-17 00:00:00.004
+2019-05-16 08:24:13,409 INFO 3548 [Timer] C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56147591ms at 2019-05-17 00:00:01.000
+2019-05-17 08:14:28,821 INFO 6960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-17 08:14:28,821 INFO 6960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-17 08:14:29,741 INFO 5856 [Timer] C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 56730261ms at 2019-05-18 00:00:00.002
+2019-05-17 08:14:29,741 INFO 5856 [Timer] C:\Users\Administrator\Desktop\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56731259ms at 2019-05-18 00:00:01.000
+2019-05-17 21:13:12,315 INFO 16488 [egg-schedule]: register schedule E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-17 21:13:12,315 INFO 16488 [egg-schedule]: register schedule E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-17 21:13:12,790 INFO 3248 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 10007212ms at 2019-05-18 00:00:00.002
+2019-05-17 21:13:12,791 INFO 3248 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10008209ms at 2019-05-18 00:00:01.000
+2019-05-17 21:17:47,183 INFO 15344 [egg-schedule]: register schedule E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-17 21:17:47,183 INFO 15344 [egg-schedule]: register schedule E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-17 21:17:47,680 INFO 7284 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9732322ms at 2019-05-18 00:00:00.002
+2019-05-17 21:17:47,680 INFO 7284 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9733320ms at 2019-05-18 00:00:01.000
+2019-05-18 00:00:00,024 INFO 15344 [Job#15581088000088739406317315721] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2019-05-18 00:00:00,034 INFO 15344 [Job#15581088000088739406317315721] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 8ms
+2019-05-18 00:00:00,017 INFO 7284 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399988ms at 2019-05-19 00:00:00.005
+2019-05-18 00:00:01,002 INFO 15344 [Job#15581088010018739416249235101] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2019-05-18 00:00:01,007 INFO 15344 [Job#15581088010018739416249235101] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 5ms
+2019-05-18 00:00:01,003 INFO 7284 [Timer] E:\PracticeOne\liujiang\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399998ms at 2019-05-19 00:00:01.001

@@ -1,0 +1,10 @@
+2019-05-15 22:10:10,580 ERROR 6376 nodejs.ClusterClientNoResponseError: client no response in 2429565ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\PracticeOne\liujiang\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6376
+hostname: SKY-20190303VBO
+

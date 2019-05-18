@@ -1,0 +1,38 @@
+2019-05-18 12:58:33,351 ERROR 2272 nodejs.ClusterClientNoResponseError: client no response in 489648ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\Administrator\Desktop\liujiang\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2272
+hostname: stu42
+
+2019-05-18 15:07:52,956 ERROR 1432 [-/127.0.0.1/-/43ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:11:16,415 ERROR 1432 [-/127.0.0.1/-/13ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:12:06,671 ERROR 1432 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:12:42,259 ERROR 1432 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+

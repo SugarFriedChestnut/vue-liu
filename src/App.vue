@@ -1,29 +1,29 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <van-row style="background-color: #F2F2F2;">
+      <van-col span="24" class="van-bottom_img">
+       <bottom-navigation v-if="this.$route.meta.hide"></bottom-navigation>
+      </van-col>
+      <van-col span="24">
+          <router-view />
+      </van-col>
+    </van-row>
   </div>
 </template>
+<script>
+import BottomNavigation from "./components/BottomNavigation/BottomNavigation";
+export default {
+  name: "app",
+  components: {
+    BottomNavigation
+  },
+  mounted() {
+    this.$store.dispatch("getData")
+  }
+
+};
+</script>
 
 <style lang="scss">
-#app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
+@import "./style/common";
 </style>

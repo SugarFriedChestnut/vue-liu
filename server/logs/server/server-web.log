@@ -1,0 +1,28 @@
+2019-05-18 15:07:52,961 ERROR 1432 [-/127.0.0.1/-/43ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:11:16,416 ERROR 1432 [-/127.0.0.1/-/13ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:12:06,672 ERROR 1432 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
+2019-05-18 15:12:42,260 ERROR 1432 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\liujiang\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 1432
+hostname: stu42
+
